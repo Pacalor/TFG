@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "things like a key",
+    "project_id": "ierning",
+    "storage_bucket": "ierning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "things like a key",
+        "android_client_info": {
+          "package_name": "com.tfg.ierning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "things like a key",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "things like a key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "things like a key",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

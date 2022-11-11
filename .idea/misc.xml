@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/Ierning_foreground.xml" value="0.4036458333333333" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/drawable/ierning_foreground.xml" value="0.4036458333333333" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/layout/fragment_dashboard.xml" value="0.26458333333333334" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/layout/fragment_home.xml" value="0.11322463768115942" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/layout/fragment_notifications.xml" value="0.11322463768115942" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26458333333333334" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/mipmap-anydpi-v26/Ierning.xml" value="0.303125" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/mipmap-anydpi-v26/Ierning_round.xml" value="0.303125" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.28072916666666664" />
+        <entry key="..\:/David/tfg/ierning/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.28072916666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
